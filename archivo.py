@@ -9,3 +9,7 @@ def adios_mundo():
 
 # Llamar a la función
 adios_mundo()
+
+# Llamar a la función otra vez
+hola_mundo()
+adios_mundo()
