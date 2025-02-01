@@ -9,3 +9,10 @@ def adios_mundo():
 
 # Llamar a la función
 adios_mundo()
+
+def suma(a, b):
+    return a + b
+
+# Llamar a la función
+resultado = suma(3, 5)
+print("La suma es:", resultado)
