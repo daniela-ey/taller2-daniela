@@ -3,3 +3,9 @@ def hola_mundo():
 
 # Llamar a la función
 hola_mundo()
+
+def adios_mundo():
+    print("Adiós, mundo!")
+
+# Llamar a la función
+adios_mundo()
