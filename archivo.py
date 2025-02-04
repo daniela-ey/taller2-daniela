@@ -16,3 +16,8 @@ def suma(a, b):
 # Llamar a la función
 resultado = suma(3, 5)
 print("La suma es:", resultado)
+
+#funcion para restar
+def resta(a, b):
+    return a - b
+
